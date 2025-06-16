@@ -2,6 +2,10 @@
 
 A React Native application for creating and managing multiple customizable timers.
 
+## Download
+
+Download the latest APK from the [Releases](https://github.com/Divyansh7y/TimerApp/releases) section.
+
 ## Features
 
 - **Create Timers**: Add timers with name, duration, category, and optional halfway alerts
